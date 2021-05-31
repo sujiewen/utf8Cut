@@ -25,6 +25,8 @@ UTF-8 编码兼容了 ASC II(0-127)， 也就是说 UTF-8 对于 ASC II 字符�
 
 5字节：111110xx 10xxxxxx 10xxxxxx 10xxxxxx 10xxxxxx
 
+6字节：1111110x 10xxxxxx 10xxxxxx 10xxxxxx 10xxxxxx 10xxxxxx
+
 #include <iostream>
 #include <string>
  
